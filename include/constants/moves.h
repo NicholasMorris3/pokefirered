@@ -356,8 +356,14 @@
 #define MOVE_WATER_PULSE 352
 #define MOVE_DOOM_DESIRE 353
 #define MOVE_PSYCHO_BOOST 354
+#define MOVE_DAZZLING_GLEAM 355 // earthquake
+#define MOVE_MOONBLAST 356 // psychic but 95 power and lowers special attack
+#define MOVE_DRAINING_KISS 357 // giga drain 
+#define MOVE_NASTY_PLOT 357 // swords dance for special attacks
+#define MOVE_DRAGON_RUSH 358 // headbutt
+#define MOVE_DRACO_METEOR 359 // double edge
 
-#define MOVES_COUNT 355
+#define MOVES_COUNT 360
 
 // Used for checks for moves affected by Disable, Mimic, etc.
 #define MOVE_UNAVAILABLE 0xFFFF
