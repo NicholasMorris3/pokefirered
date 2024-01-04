@@ -1372,10 +1372,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_PARASECT] =
     {
         .baseHP = 70,
-        .baseAttack = 95,
+        .baseAttack = 75,
         .baseDefense = 80,
         .baseSpeed = 30,
-        .baseSpAttack = 75,
+        .baseSpAttack = 95,
         .baseSpDefense = 80,
         .types = {TYPE_BUG, TYPE_GHOST},
         .catchRate = 75,
@@ -6243,11 +6243,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_SNEASEL] =
     {
-        .baseHP = 55,
-        .baseAttack = 95,
-        .baseDefense = 55,
-        .baseSpeed = 115,
-        .baseSpAttack = 35,
+        .baseHP = 70,
+        .baseAttack = 120,
+        .baseDefense = 65,
+        .baseSpeed = 120,
+        .baseSpAttack = 60,
         .baseSpDefense = 75,
         .types = {TYPE_DARK, TYPE_ICE},
         .catchRate = 60,
@@ -6417,11 +6417,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_PILOSWINE] =
     {
-        .baseHP = 100,
-        .baseAttack = 100,
+        .baseHP = 110,
+        .baseAttack = 130,
         .baseDefense = 80,
-        .baseSpeed = 50,
-        .baseSpAttack = 60,
+        .baseSpeed = 80,
+        .baseSpAttack = 70,
         .baseSpDefense = 60,
         .types = {TYPE_ICE, TYPE_GROUND},
         .catchRate = 75,
@@ -6533,12 +6533,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_DELIBIRD] =
     {
-        .baseHP = 45,
-        .baseAttack = 55,
-        .baseDefense = 45,
+        .baseHP = 75,
+        .baseAttack = 85,
+        .baseDefense = 85,
         .baseSpeed = 75,
-        .baseSpAttack = 65,
-        .baseSpDefense = 45,
+        .baseSpAttack = 95,
+        .baseSpDefense = 70,
         .types = {TYPE_ICE, TYPE_FLYING},
         .catchRate = 45,
         .expYield = 183,
