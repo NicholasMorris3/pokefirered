@@ -50,6 +50,10 @@ MtMoon_B2F_EventScript_ItemTM46::
 	finditem ITEM_TM46
 	end
 
+MtMoon_B2F_EventScript_ItemMasterBall::
+	finditem ITEM_MASTER_BALL
+	end
+
 Route4_EventScript_ItemTM05::
 	finditem ITEM_TM05
 	end
@@ -60,6 +64,10 @@ Route24_EventScript_ItemTM45::
 
 Route25_EventScript_ItemTM43::
 	finditem ITEM_TM43
+	end
+
+CeruleanCity_EventScript_ItemGoodRod::
+	finditem ITEM_GOOD_ROD
 	end
 
 SSAnne_1F_Room2_EventScript_ItemTM31::
@@ -138,6 +146,10 @@ RocketHideout_B4F_EventScript_ItemCalcium::
 	finditem ITEM_CALCIUM
 	end
 
+LavenderTown_EventScript_ItemSuperRod::
+	finditem ITEM_SUPER_ROD
+	end
+
 PokemonTower_3F_EventScript_ItemEscapeRope::
 	finditem ITEM_ESCAPE_ROPE
 	end
@@ -150,8 +162,8 @@ PokemonTower_4F_EventScript_ItemAwakening::
 	finditem ITEM_AWAKENING
 	end
 
-PokemonTower_4F_EventScript_ItemGreatBall::
-	finditem ITEM_GREAT_BALL
+PokemonTower_4F_EventScript_ItemMasterBall::
+	finditem ITEM_MASTER_BALL
 	end
 
 PokemonTower_5F_EventScript_ItemNugget::
@@ -204,6 +216,10 @@ SafariZone_North_EventScript_ItemProtein::
 
 SafariZone_North_EventScript_ItemTM47::
 	finditem ITEM_TM47
+	end
+
+SafariZone_North_EventScript_ItemMasterBall::
+	finditem ITEM_MASTER_BALL
 	end
 
 SafariZone_West_EventScript_ItemTM32::
@@ -332,6 +348,14 @@ PokemonMansion_B1F_EventScript_ItemTM22::
 
 PokemonMansion_B1F_EventScript_ItemSecretKey::
 	finditem ITEM_SECRET_KEY
+	end
+
+PokemonMansion_B1F_EventScript_ItemMasterBall::
+	finditem ITEM_MASTER_BALL
+	end
+
+Route23_EventScript_ItemMasterBall::
+	finditem ITEM_MASTER_BALL
 	end
 
 VictoryRoad_1F_EventScript_ItemRareCandy::
@@ -472,6 +496,10 @@ PokemonMansion_2F_EventScript_ItemHPUp::
 
 ViridianCity_EventScript_ItemPotion::
 	finditem ITEM_POTION
+	end
+
+ViridianCity_EventScript_ItemOldRod::
+	finditem ITEM_OLD_ROD
 	end
 
 Route11_EventScript_ItemGreatBall::

@@ -39,7 +39,7 @@
       "elevation": 3,
       "item": "ITEM_PP_MAX",
       "flag": "FLAG_HIDDEN_ITEM_TWO_ISLAND_CAPE_BRINK_PP_MAX",
-      "quantity": 1,
+      "quantity": 5,
       "underfoot": true
     },
     {
@@ -49,7 +49,7 @@
       "elevation": 3,
       "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_TWO_ISLAND_CAPE_BRINK_RARE_CANDY",
-      "quantity": 1,
+      "quantity": 10,
       "underfoot": false
     }
   ]

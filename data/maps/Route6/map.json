@@ -161,7 +161,7 @@
       "elevation": 3,
       "item": "ITEM_RARE_CANDY",
       "flag": "FLAG_HIDDEN_ITEM_ROUTE6_RARE_CANDY",
-      "quantity": 1,
+      "quantity": 10,
       "underfoot": false
     }
   ]

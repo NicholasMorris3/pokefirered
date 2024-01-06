@@ -528,16 +528,17 @@
 #define FLAG_HIDE_FIVE_ISLAND_LOST_CAVE_ROOM14_RARE_CANDY       0x1FC
 #define FLAG_HIDE_SEVEN_ISLAND_SEVAULT_CANYON_HOUSE_LUCKY_PUNCH 0x1FD
 #define FLAG_HIDE_SILPH_CO_4F_TM41                              0x1FE
+#define FLAG_HIDE_VIRIDIAN_CITY_OLD_ROD                         0x1FF
+#define FLAG_HIDE_CERULEAN_CITY_GOOD_ROD                        0x200
+#define FLAG_HIDE_LAVENDER_TOWN_SUPER_ROD                       0x201
+#define FLAG_HIDE_MT_MOON_B2F_MASTER_BALL                       0x202
+#define FLAG_HIDE_POKEMON_TOWER_4F_MASTER_BALL                  0x203
+#define FLAG_HIDE_SAFARI_ZONE_NORTH_MASTER_BALL                 0x204
+#define FLAG_HIDE_POKEMON_MANSION_B1F_MASTER_BALL               0x205
+#define FLAG_HIDE_ROUTE_23_MASTER_BALL                          0x206
 
 // Unused?
-#define FLAG_0x1FF               0x1FF
-#define FLAG_0x200               0x200
-#define FLAG_0x201               0x201
-#define FLAG_0x202               0x202
-#define FLAG_0x203               0x203
-#define FLAG_0x204               0x204
-#define FLAG_0x205               0x205
-#define FLAG_0x206               0x206
+
 #define FLAG_0x207               0x207
 #define FLAG_0x208               0x208
 #define FLAG_0x209               0x209
