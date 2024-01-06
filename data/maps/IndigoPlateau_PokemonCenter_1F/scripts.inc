@@ -60,6 +60,25 @@ IndigoPlateau_PokemonCenter_1F_Items::
 	.2byte ITEM_REVIVE
 	.2byte ITEM_FULL_HEAL
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_SHELL_BELL
+	.2byte ITEM_BRIGHT_POWDER
+	.2byte ITEM_KINGS_ROCK
+	.2byte ITEM_FOCUS_BAND
+	.2byte ITEM_SCOPE_LENS
+	.2byte ITEM_PP_MAX
+	.2byte ITEM_PP_UP
+	.2byte ITEM_HP_UP
+	.2byte ITEM_PROTEIN
+	.2byte ITEM_IRON
+	.2byte ITEM_CALCIUM
+	.2byte ITEM_ZINC
+	.2byte ITEM_CARBOS
+	.2byte ITEM_RARE_CANDY
+	.2byte ITEM_LEFTOVERS
+	.2byte ITEM_CHOICE_BAND
+	.2byte ITEM_MACHO_BRACE
+	.2byte ITEM_QUICK_CLAW
+	.2byte ITEM_LUCKY_EGG
 	.2byte ITEM_NONE
 	release
 	end

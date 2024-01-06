@@ -22,7 +22,7 @@ PewterCity_Mart_EventScript_Clerk::
 
 	.align 2
 PewterCity_Mart_Items::
-	.2byte ITEM_POKE_BALL
+	.2byte ITEM_GREAT_BALL
 	.2byte ITEM_POTION
 	.2byte ITEM_ANTIDOTE
 	.2byte ITEM_PARALYZE_HEAL
@@ -30,6 +30,22 @@ PewterCity_Mart_Items::
 	.2byte ITEM_BURN_HEAL
 	.2byte ITEM_ESCAPE_ROPE
 	.2byte ITEM_REPEL
+	.2byte ITEM_MYSTIC_WATER
+	.2byte ITEM_BLACK_BELT
+	.2byte ITEM_RARE_CANDY
+	.2byte ITEM_IRON
+	.2byte ITEM_ZINC
+	.2byte ITEM_CHERI_BERRY
+	.2byte ITEM_CHESTO_BERRY
+	.2byte ITEM_LEPPA_BERRY
+	.2byte ITEM_PECHA_BERRY
+	.2byte ITEM_SITRUS_BERRY
+	.2byte ITEM_FIRE_STONE
+	.2byte ITEM_THUNDER_STONE
+	.2byte ITEM_WATER_STONE
+	.2byte ITEM_LEAF_STONE
+	.2byte ITEM_SUN_STONE
+	.2byte ITEM_MOON_STONE
 	.2byte ITEM_NONE
 	release
 	end

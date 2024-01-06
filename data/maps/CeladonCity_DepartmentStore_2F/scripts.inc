@@ -35,6 +35,11 @@ CeladonCity_DepartmentStore_2F_Items::
 	.2byte ITEM_BURN_HEAL
 	.2byte ITEM_ICE_HEAL
 	.2byte ITEM_SUPER_REPEL
+	.2byte ITEM_CHERI_BERRY
+	.2byte ITEM_CHESTO_BERRY
+	.2byte ITEM_LEPPA_BERRY
+	.2byte ITEM_PECHA_BERRY
+	.2byte ITEM_SITRUS_BERRY
 	.2byte ITEM_NONE
 	release
 	end

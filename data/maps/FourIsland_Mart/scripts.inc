@@ -22,6 +22,14 @@ FourIsland_Mart_Items::
 	.2byte ITEM_FULL_HEAL
 	.2byte ITEM_ESCAPE_ROPE
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_RARE_CANDY
+	.2byte ITEM_CALCIUM
+	.2byte ITEM_PROTEIN
+	.2byte ITEM_CHERI_BERRY
+	.2byte ITEM_CHESTO_BERRY
+	.2byte ITEM_LEPPA_BERRY
+	.2byte ITEM_PECHA_BERRY
+	.2byte ITEM_SITRUS_BERRY
 	.2byte ITEM_NONE
 	release
 	end
