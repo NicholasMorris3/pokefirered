@@ -362,8 +362,10 @@
 #define MOVE_NASTY_PLOT 357 // swords dance for special attacks
 #define MOVE_DRAGON_RUSH 358 // headbutt
 #define MOVE_DRACO_METEOR 359 // double edge
+#define MOVE_NIGHT_SLASH 360 // high crit
+#define MOVE_SHADOW_SNEAK 361 // priority
 
-#define MOVES_COUNT 360
+#define MOVES_COUNT 362
 
 // Used for checks for moves affected by Disable, Mimic, etc.
 #define MOVE_UNAVAILABLE 0xFFFF

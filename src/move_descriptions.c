@@ -355,13 +355,14 @@ const u8 gMoveDescription_ShockWave[] = _("A rapid jolt of\nelectricity strikes\
 const u8 gMoveDescription_WaterPulse[] = _("An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.");
 const u8 gMoveDescription_DoomDesire[] = _("A move that attacks\nthe foe with a\nblast of light two\nturns after use.");
 const u8 gMoveDescription_PsychoBoost[] = _("An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.");
-const u8 gMoveDescription_DragonRush[] = _("User attacks with\nthe power of the moon,\nmay also lower target's Sp. Atk.");
-const u8 gMoveDescription_DracoMeteor[] = _("The user damages\nopposing Pokémon by\nemitting a powerful flash.");
+const u8 gMoveDescription_DragonRush[] = _("The foe is attacked\nwith rough tackle.\nIt may make the\nfoe flinch.");
+const u8 gMoveDescription_DracoMeteor[] = _("A reckless, life-\nrisking meteor that\nalso hurts the user\na little");
 const u8 gMoveDescription_Moonblast[] = _("User attacks with\nthe power of the moon,\nmay also lower target's Sp. Atk.");
 const u8 gMoveDescription_DazzlingGleam[] = _("The user damages\nopposing Pokémon by\nemitting a powerful flash.");
 const u8 gMoveDescription_DrainingKiss[] = _("The user's HP is\nrestored by over half\nthe damage taken by the target.");
 const u8 gMoveDescription_NastyPlot[] = _("An attack\nthat will sharply\nraise the user's\nSP. ATK stat.");
-
+const u8 gMoveDescription_NightSlash[] = _("An attack\nthat has high\nchance for a\ncritical hit.");
+const u8 gMoveDescription_ShadowSneak[] = _("A quick shadow\nattackthat will\nalways move first.");
 
 const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] = {
     [MOVE_POUND         - 1] = gMoveDescription_Pound,
@@ -724,4 +725,6 @@ const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] = {
     [MOVE_NASTY_PLOT    - 1] = gMoveDescription_NastyPlot,
     [MOVE_DRACO_METEOR  - 1] = gMoveDescription_DracoMeteor,
     [MOVE_DRAGON_RUSH   - 1] = gMoveDescription_DragonRush,
+    [MOVE_NIGHT_SLASH   - 1] = gMoveDescription_NightSlash,
+    [MOVE_SHADOW_SNEAK   - 1] = gMoveDescription_ShadowSneak,
 };
