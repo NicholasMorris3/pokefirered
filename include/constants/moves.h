@@ -359,13 +359,13 @@
 #define MOVE_DAZZLING_GLEAM 355 // earthquake
 #define MOVE_MOONBLAST 356 // psychic but 95 power and lowers special attack
 #define MOVE_DRAINING_KISS 357 // giga drain 
-#define MOVE_NASTY_PLOT 357 // swords dance for special attacks
-#define MOVE_DRAGON_RUSH 358 // headbutt
-#define MOVE_DRACO_METEOR 359 // double edge
-#define MOVE_NIGHT_SLASH 360 // high crit
-#define MOVE_SHADOW_SNEAK 361 // priority
+#define MOVE_NASTY_PLOT 358 // swords dance for special attacks
+#define MOVE_DRAGON_RUSH 359 // headbutt
+#define MOVE_DRACO_METEOR 360 // double edge
+#define MOVE_NIGHT_SLASH 361 // high crit
+#define MOVE_SHADOW_SNEAK 362 // priority
 
-#define MOVES_COUNT 362
+#define MOVES_COUNT 363
 
 // Used for checks for moves affected by Disable, Mimic, etc.
 #define MOVE_UNAVAILABLE 0xFFFF
